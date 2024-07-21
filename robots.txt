@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://temeranyc.github.io/sitemap
+Sitemap: https://temeranyc.github.io/app/sitemap
+Sitemap: https://temeranyc.github.io/assets/sitemap
+Sitemap: https://temeranyc.github.io/css/sitemap
+Sitemap: https://temeranyc.github.io/includes/sitemap
+Sitemap: https://temeranyc.github.io/item/sitemap
+Sitemap: https://temeranyc.github.io/src/sitemap
